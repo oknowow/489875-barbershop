@@ -10,6 +10,7 @@ _`.editorconfig`, `.gitignore`, `Contributing.md`, `Readme.md`._
 ---
 
 ### Памятка
+12341
 
 #### 1. Зарегистрируйтесь на Гитхабе
 
